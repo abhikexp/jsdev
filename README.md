@@ -1,2 +1,2 @@
-# learn-js
-Learn Javascript
+# jslearn
+Learn Javascript, Nodejs, Typescript, Front-End Dev .etc
