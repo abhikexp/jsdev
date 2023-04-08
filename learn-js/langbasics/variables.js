@@ -1,3 +1,5 @@
+"use strict";
+
 const constVar = "This is a constant";
 
 console.log(constVar);
@@ -9,4 +11,4 @@ function add(a, b) {
   return a + b;
 }
 
-console.log(5, 10);
+console.log(add(5, 10));
