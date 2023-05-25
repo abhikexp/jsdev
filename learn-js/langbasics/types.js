@@ -4,3 +4,7 @@
  * Non-Primitives (functions, arrays and objects)
  *  - mutable, are objects, stored in memory by reference
  */
+
+/** ref:
+ * https://garden.bradwoods.io/notes/javascript/types
+ */
