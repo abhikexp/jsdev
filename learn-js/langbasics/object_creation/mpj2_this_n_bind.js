@@ -4,8 +4,8 @@ function talk(sound) {
 }
 talk('wooof');
 let talk2 = function (){
-    console.log(this.sound); // undefined
-    // console.log(this);  // global obj context
+    console.log(this.sound); // undefined when talk2 is called from global context
+    // console.log(this);  // prints global obj context when talk2 is called from global context
 }
 talk2('wooof');
 let boromir = {
