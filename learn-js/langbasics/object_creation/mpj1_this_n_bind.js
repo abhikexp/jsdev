@@ -29,6 +29,11 @@ button.addEventListener(
     dog.talk.bind(dog)
 );
 
-// TODO:
+// TODO: https://stackoverflow.com/questions/67254458/how-can-i-access-dom-elements-using-node-js
 // https://github.com/taoqf/node-html-parser
 // https://github.com/cheeriojs/cheerio
+// https://github.com/jsdom/jsdom
+// https://javascript.info/document
+// https://www.twilio.com/blog/web-scraping-and-parsing-html-in-node-js-with-jsdom
+// https://www.scrapingbee.com/blog/web-scraping-javascript/
+// https://nodejs.dev/en/learn/differences-between-nodejs-and-the-browser/
